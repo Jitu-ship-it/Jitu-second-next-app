@@ -1,3 +1,19 @@
+# Jitu Second Next.js App
+
+Welcome to my Next.js project!
+
+## 🚀 Live Website
+
+**[Click Here to Visit My Live Project](https://jitu-second-next.netlify.app/)**
+
+## 🛠️ Technologies Used
+
+- Next.js
+- React
+- JavaScript
+- Tailwind CSS
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Data API
