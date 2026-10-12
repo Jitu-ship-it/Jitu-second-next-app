@@ -2,13 +2,17 @@
 const nextConfig = {
   /* config options here */
   reactCompiler: true,
-  turbopack: {
-    rules: {
-      "*.css": {
-        loaders: ["@tailwindcss/turbopack"],
-        as: "*.css",
+ 
+  images: {
+    remotePatterns: [
+      {
+        protocol: 'https',
+        hostname: 'res.cloudinary.com',
+        port: '',
+        pathname: '**',
+        search: '',
       },
-    },
+    ],
   },
 };
 
